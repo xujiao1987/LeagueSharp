@@ -1,0 +1,10 @@
+C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\F03FA71D\trunk\TriKata\Triton\bin\Release\Triton.dll
+C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\F03FA71D\trunk\TriKata\Triton\bin\Release\Triton.pdb
+C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\F03FA71D\trunk\TriKata\Triton\bin\Release\LeagueSharp.Common.dll
+C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\F03FA71D\trunk\TriKata\Triton\bin\Release\LeagueSharp.dll
+C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\F03FA71D\trunk\TriKata\Triton\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\F03FA71D\trunk\TriKata\Triton\bin\Release\SharpDX.dll
+C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\F03FA71D\trunk\TriKata\Triton\bin\Release\LeagueSharp.xml
+C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\F03FA71D\trunk\TriKata\Triton\obj\Release\Triton.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\F03FA71D\trunk\TriKata\Triton\obj\Release\Triton.dll
+C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\F03FA71D\trunk\TriKata\Triton\obj\Release\Triton.pdb
